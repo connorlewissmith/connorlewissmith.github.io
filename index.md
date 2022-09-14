@@ -6,9 +6,8 @@
 
 [Project 1 Title]
 
-![]https://user-images.githubusercontent.com/83411325/190281640-6fc4d849-dcf4-4e91-b148-a305223d3a1b.mov
-
-
+  <iframe width="560" height="315" src="https://user-images.githubusercontent.com/83411325/190281640-6fc4d849-dcf4-4e91-b148-a305223d3a1b.mov" frameborder="0" allowfullscreen></iframe>
+      </iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
