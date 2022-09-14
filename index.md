@@ -6,9 +6,8 @@
 
 [Project 1 Title]
 
-https://user-images.githubusercontent.com/83411325/190281640-6fc4d849-dcf4-4e91-b148-a305223d3a1b.mov
-<video src="LINK" controls="controls" style="max-width: 730px;">
-</video>
+![]https://user-images.githubusercontent.com/83411325/190281640-6fc4d849-dcf4-4e91-b148-a305223d3a1b.mov
+
 
 
 ---
