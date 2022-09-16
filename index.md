@@ -2,12 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Shiny Applications 
 
 [Project 1 Title]
 <video controls loop>
-  <source src="movie/shiny_example.mov" type="video/mov">
-  Your browser does not support the video tag.
+<source src="movie/shiny_example.mov" type="video/mov">
 </video>
 
 ---
