@@ -6,7 +6,7 @@
 
 [Project 1 Title]
 
-<source src="movies/app_demo.mp4" type="video/mp4">
+<img src="images/shiny_demo.gif?raw=true"/>
 
 
 ---
