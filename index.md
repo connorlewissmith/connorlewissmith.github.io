@@ -6,7 +6,7 @@
 
 [Project 1 Title]
 <video controls loop>
-<source src="movie/shiny_example.mov" type="video/mov">
+<source src="movies/shiny_example.mov" type="video/mov">
 </video>
 
 ---
