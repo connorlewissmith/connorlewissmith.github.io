@@ -1,7 +1,9 @@
 title: Connor Lewis-Smith # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Social Scientist 
+<center>
+Social Scientist 
+<center>
   <br><br>
   <a href="www.linkedin.com/in/connorlewissmith">View My LinkedIn Profile</a>   
 theme: jekyll-theme-minimal
