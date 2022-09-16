@@ -5,9 +5,10 @@
 ### Category Name 1 
 
 [Project 1 Title]
-
-  <iframe width="560" height="315" src="https://user-images.githubusercontent.com/83411325/190281640-6fc4d849-dcf4-4e91-b148-a305223d3a1b.mov" frameborder="0" allowfullscreen></iframe>
-      </iframe>
+<video controls loop>
+  <source src="movie/shiny_example.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
