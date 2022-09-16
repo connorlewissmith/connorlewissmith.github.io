@@ -5,10 +5,9 @@
 ### Shiny Applications 
 
 [Project 1 Title]
-<video controls loop>
+
 <source src="movies/app_demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
