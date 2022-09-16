@@ -2,12 +2,15 @@ title: <p align="center"> Connor <br> Lewis-Smith </p>
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description:
  <p align="center"> Social Scientist </p>
-   <br><br>
-   
-   <p align="center">
+   <br>   
+  <p align="center">
   <a href="pdf/resume2022.pdf">Resume</a> |
   <a href="www.linkedin.com/in/connorlewissmith">LinkedIn</a> |
   <a href="https://github.com/connorlewissmith">GitHub</a>
+  </p>
+  <br>
+  <p align="justify">
+  Demonstrated passion for connecting natural, social, and data science. Currently studying fishing community characteristics to inform management decisions as a Data Management Specialist with the Pacific States Marine Fisheries Commission in support of NOAA Fisheries Conservation Biology for the West Coast.
   </p>
   
 theme: jekyll-theme-minimal
