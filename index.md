@@ -27,7 +27,7 @@ I co-produced an 18 question pre-survey, a series of educational Youtube videos,
 
 ## Masters Thesis
 
-[Risk Mitigation in the West Coast Commercial Fishing Fleet]([https://connect.fisheries.noaa.gov/connect/#/apps/9cc191e4-2cd2-497b-961e-e40def9ef747/access](https://digital.lib.washington.edu/researchworks/handle/1773/49055))
+[Risk Mitigation in the West Coast Commercial Fishing Fleet](https://digital.lib.washington.edu/researchworks/handle/1773/49055)
 
 
 ---
