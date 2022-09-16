@@ -9,7 +9,7 @@
 
 
 ---
-[Project 2 Title](https://pcc.uw.edu/blog/2022/06/08/first-steps-climate-change-curriculum-for-agricultural-analysts-and-decision-makers-in-sub-saharan-africa/)
+[Pilot Project: Climate Change Curriculum for Agricultural Analysts and Decision-Makers in Sub-Saharan Africa](https://pcc.uw.edu/blog/2022/06/08/first-steps-climate-change-curriculum-for-agricultural-analysts-and-decision-makers-in-sub-saharan-africa/)
 <img src="images/capstone.png?raw=true"/>
 
 
