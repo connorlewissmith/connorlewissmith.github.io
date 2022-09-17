@@ -1,10 +1,10 @@
 title: <p align="center"> Connor <br> Lewis-Smith </p> 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description:
- <p align="center"> Social Scientist </p>
+ <p align="center"> Data Scientist </p>
    <br>   
   <p align="center">
-  <a href="pdf/resume2022.pdf">Resume</a> |
+  <h3 href="pdf/resume2022.pdf">Resume</h3> |
   <a href="https://www.linkedin.com/in/connorlewissmith/">LinkedIn</a> |
   <a href="https://github.com/connorlewissmith">GitHub</a>
   </p>
