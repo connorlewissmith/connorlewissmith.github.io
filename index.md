@@ -2,6 +2,18 @@
 
 ---
 
+## Spatial Analysis & CI/CD
+
+[Upstream Fish Barrier Restoration Tool]
+(https://upstream-cloud-run-jcypjvvn7a-uw.a.run.app/) 
+
+In collaboration with a multidisciplinary team, I spearheaded the development of a decision support tool aimed at optimizing fish barrier culvert restoration efforts. My role was pivotal in establishing habitat quality and quantity metrics that serve as the backbone of the tool's analytical capabilities. Leveraging my expertise in data science, I also implemented a continuous deployment pipeline, ensuring that the tool remains up-to-date and robust.
+
+<img src="images/upstream_app.png?raw=true"/>
+
+
+---
+
 ## Data Visualization 
 
 [West Coast Commercial Fisheries Participation Survey County-level Mapping Tool](https://connect.fisheries.noaa.gov/connect/#/apps/9cc191e4-2cd2-497b-961e-e40def9ef747/access)
@@ -24,7 +36,13 @@ I co-produced an 18 question pre-survey, a series of educational Youtube videos,
 <img src="images/capstone.png?raw=true"/>
 
 ---
+## Publications
 
+Harvey, Chris, Andy Leising, Nick Tolimieri, and Greg Williams. n.d. “2022-2023 CALIFORNIA CURRENT ECOSYSTEM STATUS REPORT.”
+
+Lewis-Smith, C., Jardine, S., Holland, D., & Norman, K. In press. Drivers of Health Insurance Status in the West Coast Commercial Fishing Fleet. Marine Resource Economics.
+
+---
 ## Masters Thesis
 
 [Risk Mitigation in the West Coast Commercial Fishing Fleet](https://digital.lib.washington.edu/researchworks/handle/1773/49055)
