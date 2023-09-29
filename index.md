@@ -4,8 +4,7 @@
 
 ## Spatial Analysis & CI/CD
 
-[Upstream Fish Barrier Restoration Tool]
-(https://upstream-cloud-run-jcypjvvn7a-uw.a.run.app/) 
+[Upstream Fish Barrier Restoration Tool](https://upstream-cloud-run-jcypjvvn7a-uw.a.run.app/)   
 
 In collaboration with a multidisciplinary team, I spearheaded the development of a decision support tool aimed at optimizing fish barrier culvert restoration efforts. My role was pivotal in establishing habitat quality and quantity metrics that serve as the backbone of the tool's analytical capabilities. Leveraging my expertise in data science, I also implemented a continuous deployment pipeline, ensuring that the tool remains up-to-date and robust.
 
@@ -47,5 +46,5 @@ Lewis-Smith, C., Jardine, S., Holland, D., & Norman, K. In press. Drivers of Hea
 
 [Risk Mitigation in the West Coast Commercial Fishing Fleet](https://digital.lib.washington.edu/researchworks/handle/1773/49055)
 
-
 ---
+
